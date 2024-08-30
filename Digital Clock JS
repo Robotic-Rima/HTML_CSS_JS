@@ -17,7 +17,7 @@ function clock() {
 
   if (!optionsDropdown.checked) {
     if (hours >= 12) { 
-      dhours.innerHTML = hours;
+      dhours.innerHTML = hours - 12;
       ampm.innerHTML = "PM";
     }
     else {
