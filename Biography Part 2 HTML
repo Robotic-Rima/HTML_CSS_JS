@@ -21,6 +21,7 @@
 
   <main>
     <section id="biography">
+      <img src="einstein.jpeg" alt="Albert Einstein" width="180">
       <h2>Biography</h2>
       <p>
         
